@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "title": "auth_context",
+    "description": "",
+    "properties": {
+      "userId": {
+        "type": "string"
+      },
+      "orgId": {
+        "type": "string"
+      }
+    }
+}
